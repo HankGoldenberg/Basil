@@ -1,0 +1,31 @@
+li{
+	display: inline;
+	text-decoration:none;
+	list-style: none;
+	font-size:50px;
+	color:white;
+	border-top:3px solid white;
+
+
+}
+
+#li_1{
+
+      margin-left:350px;
+      margin-right:100px;
+
+
+}
+#li_2{
+
+      margin-right:100px;
+
+
+}
+
+#li_3{
+	
+
+
+
+}

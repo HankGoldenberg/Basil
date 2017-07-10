@@ -51,3 +51,24 @@ a:hover{
 
 
 }
+
+
+body{
+	background-color:Lavender;
+	
+
+
+}
+
+footer{
+
+	position:relative;
+	top:1000px;
+	background-color: LightSteelBlue;
+	margin-left:-10px;
+	margin-right:-10px;
+	height:275px;
+
+	
+
+}

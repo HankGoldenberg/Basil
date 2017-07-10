@@ -1,17 +1,17 @@
 li{
-	display: inline;
+	display: inline-block;
 	text-decoration:none;
 	list-style: none;
 	font-size:50px;
-	color:white;
+	
 	border-top:3px solid white;
 
 
 }
 
 #li_1{
-
-      margin-left:350px;
+	  
+	  margin-left:350px;
       margin-right:100px;
 
 
@@ -29,3 +29,14 @@ li{
 
 
 }
+
+a:link{
+	color:white;
+	
+
+}
+
+a:hover{
+	color:navy;
+}
+

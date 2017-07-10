@@ -3,42 +3,33 @@ li{
 	text-decoration:none;
 	list-style: none;
 	font-size:50px;
-	
 	border-top:3px solid white;
-
 
 }
 
 #li_1{
-	  
 	  margin-left:350px;
       margin-right:100px;
-
-
 }
+
 #li_2{
-
       margin-right:100px;
-
-
 }
 
 #li_3{
-	
-
 
 
 }
 
 a:link{
-	color:white;
-
-
+	color: white;
 }
 
 a:hover{
-	color:navy;
+	color: navy;
 }
+
+
 
 #div_1{
 
@@ -46,29 +37,18 @@ a:hover{
 	height:200px;
 	top:200px;
 	position:relative;
-
-
-
-
 }
 
 
 body{
 	background-color:Lavender;
-	
-
-
 }
 
 footer{
-
 	position:relative;
 	top:1000px;
 	background-color: LightSteelBlue;
 	margin-left:-10px;
 	margin-right:-10px;
 	height:275px;
-
-	
-
 }

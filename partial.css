@@ -1,20 +1,49 @@
+#div_1{
+
+	background-color:white;
+	height:150px;
+	top:none;
+	position:fixed;
+	margin-left: -10px;
+	margin-right: -10px;
+	text-align:right;
+	width:100%;
+	margin-top:-10px;
+}
+
+
+#title{
+		font-size:50px;
+		font-family:helvetica;
+		float:left;
+		margin-left:20px;
+
+}
+#green{
+		color:green;
+	
+
+}
+
 li{
 	display: inline-block;
 	text-decoration:none;
 	list-style: none;
-	font-size:50px;
-	border-top:3px solid white;
-	font-family: Garamond;
+	font-size:20px;
+	margin-right:20px;
+	font-family: helvetica;
+	top:40px;
+	position:relative;
 
 }
 
 #li_1{
-	  margin-left:290px;
-      margin-right:100px;
+	
+      margin-right:40px;
 }
 
 #li_2{
-      margin-right:100px;
+      margin-right:40px;
 }
 
 #li_3{
@@ -23,11 +52,11 @@ li{
 }
 
 a:link{
-	color: white;
+	color: navy;
 }
 
 a:visited {
-	color:white;
+	color:navy;
 }
 
 a:hover{
@@ -39,23 +68,10 @@ a:active{
 }
 
 
-#div_1{
 
-	background-color:white;
-	height:200px;
-	top:160px;
-	position:relative;
-	margin-left: -10px;
-	margin-right: -10px;
-	text-align: center;
-}
 
-#span_1{
-	position: relative;
-	top:70px;
-	font-family: Garamond;
-	font-size: 40px;
-}
+
+
 
 
 body{
